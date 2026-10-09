@@ -16,3 +16,4 @@ Welcome to my academic portfolio for [CEP 146]!
 
 ## Projects
 *This section will be updated as I complete assignments*
+## Welcome to my cooking journey!
